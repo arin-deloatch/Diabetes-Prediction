@@ -11,7 +11,7 @@ The business needs are centered around enhancing the early detection and managem
 ### Installation and Running the Project
 1. Clone the repo 
    ```
-   git clone https://github.com/arin-deloatch/Group-5-Final-Project.git
+   git clone https://github.com/arin-deloatch/Diabetes-Prediction.git
     ```
    
 2. Ensure the necessary packages are installed via your package manager (pip, anaconda,etc.) and import the modules into your python/notebook file. 
