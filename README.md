@@ -1,4 +1,4 @@
-# Diabetes Prediction
+# Early Detection for Diabetes using ML
 
 ### Built With Python 3.11
 
